@@ -1,0 +1,26 @@
+h1 {
+	background-color : #2929a5;
+	color : white;
+	text-align : center;
+	height: 65px;
+}
+
+#details {
+	background-color : #e3e3f3;
+	padding : 15px 15px 15px 15px;
+	
+}
+
+.heading {
+	padding : 15px 0 0 0;
+	text-align : center;
+}
+
+hr {
+	margin-top: 5px;
+    margin-bottom: 4px;
+}
+
+span {
+	font-weight : bold;
+}
